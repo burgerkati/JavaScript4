@@ -2,7 +2,7 @@ let animals = ['Bear', 'Wolf', 'Fox', 'Raven'];
 
 function addMoreAnimals() {
   let newLength = document.getElementById('input').value;
-// method
+// line 6 is the method
   animals.unshift(newLength);
   alert(animals + ' a été ajouté au tableau');
 }
