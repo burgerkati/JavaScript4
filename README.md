@@ -2,4 +2,4 @@
 ### Repository contents for each directory :
 * index.html
 * main.js
-* README.me
+* README.md
